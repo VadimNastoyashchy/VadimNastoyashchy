@@ -17,9 +17,7 @@ Currently a Senior Software Test Automation Engineer at [EPAM](https://www.epam.
   </a>
 </p>
 
-### JavaScript, TypeScript
-### Cypress, WebdriverIo, Playwright, Appium, Mocha, Jest
-### Docker, Cucumber, Allure
+JavaScript, TypeScript, Cypress, WebdriverIo, Playwright, Appium, Mocha, Jest, Docker, Cucumber, Allure...
 
 ## Stats
 
