@@ -12,7 +12,7 @@ Currently a Senior Software Test Automation Engineer at [EPAM](https://www.epam.
 ## Skills
 
 <p align="left">
-   <a href="https://github.com/olmesm/olmesm">
+   <a href="https://github.com/VadimNastoyashchy">
     <img src="https://skillicons.dev/icons?i=azure,docker,linux,nodejs,ts,js,jest,selenium" alt="" />
   </a>
 </p>
