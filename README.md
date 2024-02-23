@@ -32,6 +32,6 @@ JavaScript, TypeScript, Cypress, WebdriverIo, Playwright, Appium, Mocha, Jest, D
 
 ## Popular Posts from [Medium.com](https://medium.com/@vadym_nastoiashhyi)
 
-- [Automating JavaScript Library Deployment to NPM with GitHub Actions: A Step-by-Step Guide](https://medium.com/@vadym_nastoiashhyi/automating-javascript-library-deployment-to-npm-with-github-actions-a-step-by-step-guide-b5e8947b8ba9)
-
 - [🎭Playwright. How to build Page Object correctly using fixtures](https://medium.com/@vadym_nastoiashhyi/playwright-how-to-build-page-object-correctly-using-fixtures-ff0a8c05b395)
+
+- [How to automate Accessibility testing using CypressIO?](https://medium.com/@vadym_nastoiashhyi/how-to-automate-accessibility-testing-using-cypressio-3395d4e28d9a)
