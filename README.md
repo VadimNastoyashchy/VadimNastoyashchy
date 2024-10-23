@@ -34,4 +34,8 @@ JavaScript, TypeScript, Cypress, WebdriverIo, Playwright, Appium, Mocha, Jest, D
 
 - [🎭Playwright. How to build Page Object correctly using fixtures](https://medium.com/@vadym_nastoiashhyi/playwright-how-to-build-page-object-correctly-using-fixtures-ff0a8c05b395)
 
-- [How to automate Accessibility testing using CypressIO?](https://medium.com/@vadym_nastoiashhyi/how-to-automate-accessibility-testing-using-cypressio-3395d4e28d9a)
+- [🚫STOP using cy.wait()! Use timeout or aliases instead. Cypres IO.](https://medium.com/stackademic/stop-using-cy-wait-use-timeout-or-aliases-instead-cypres-io-60d72fc6aece)
+
+- [JavaScript 🆚 TypeScript in Test Automation. A Closer Look at Playwright and Cypress.](https://medium.com/stackademic/javascript-typescript-in-test-automation-a-closer-look-at-playwright-and-cypress-f9db1cd2f85c)
+
+- [🔝TOP 10 useful Cypress plugins in 2024!](https://medium.com/stackademic/top-10-useful-cypress-plugins-in-2024-cf367961960e)
