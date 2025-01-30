@@ -30,6 +30,10 @@ JavaScript, TypeScript, Cypress, WebdriverIo, Playwright, Appium, Mocha, Jest, D
 
 </p>
 
+## Personal blog
+
+[https://vadimnastoyashchy.github.io/](https://vadimnastoyashchy.github.io/)
+
 ## Popular Posts from [Medium.com](https://medium.com/@vadym_nastoiashhyi)
 
 - [🎭Playwright. How to build Page Object correctly using fixtures](https://medium.com/@vadym_nastoiashhyi/playwright-how-to-build-page-object-correctly-using-fixtures-ff0a8c05b395)
