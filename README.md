@@ -6,7 +6,7 @@ Currently a Senior Software Test Automation Engineer at [EPAM](https://www.epam.
 
 
 
-##[Personal blog](https://vadimnastoyashchy.github.io/)
+## [Personal blog](https://vadimnastoyashchy.github.io/)
 
 [Linkedin](https://www.linkedin.com/in/vadym-nastoiashchyi/)
 
