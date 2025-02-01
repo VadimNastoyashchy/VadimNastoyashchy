@@ -6,7 +6,9 @@ Currently a Senior Software Test Automation Engineer at [EPAM](https://www.epam.
 
 
 
+## Personal blog
 
+[vadimnastoyashchy.com/](https://vadimnastoyashchy.github.io/)
 [Linkedin](https://www.linkedin.com/in/vadym-nastoiashchyi/)
 
 ## Skills
@@ -29,10 +31,6 @@ JavaScript, TypeScript, Cypress, WebdriverIo, Playwright, Appium, Mocha, Jest, D
   </a> 
 
 </p>
-
-## Personal blog
-
-[https://vadimnastoyashchy.github.io/](https://vadimnastoyashchy.github.io/)
 
 ## Popular Posts from [Medium.com](https://medium.com/@vadym_nastoiashhyi)
 
